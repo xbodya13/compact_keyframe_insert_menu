@@ -1,5 +1,5 @@
 # Compact keyframe insert menu
-This little addon makes keyframe insert menu more compact and readable.
+This little addon for Blender 2.8 makes keyframe insert menu more compact and readable.
 <br>
 <br>
 <div align="center">
